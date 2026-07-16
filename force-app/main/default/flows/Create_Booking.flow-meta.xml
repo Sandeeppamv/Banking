@@ -12,7 +12,7 @@
             <operator>Assign</operator>
             <value>
                 <elementReference>Get_Booking_Record</elementReference>
-            </value>
+            </value >
         </assignmentItems>
     </assignments>
     <assignments>
